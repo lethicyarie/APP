@@ -14,3 +14,9 @@ Como um lego, você vai utilizar peças para criar algoritmos, ou seja, para res
 - Estrutura de dados (functions, object, array)
 - Controle de fluxo (if/else)
 - Estrutura de repetição (for, while)
+
+## Fases da resolução de um problema
+
+Coletar dados
+Processar dados (manipular, alterar...)
+Apresentar dados
