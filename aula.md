@@ -56,3 +56,7 @@ Arrow function/named function
 # Estrutura de repetição
 
 While
+
+# Condicionais
+
+Switch
