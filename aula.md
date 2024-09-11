@@ -41,7 +41,7 @@ Operador de concatenação (+)
 
 Uma loista que contém qualquer tipo de dado
 
-## Obketos: 
+## Objetos: 
 
 Atributos e métodos
 Criação e manipulação de objetos
@@ -52,3 +52,7 @@ Acesso a propriedades de objetos
 Criar, passar argumento
 Executar
 Arrow function/named function
+
+# Estrutura de repetição
+
+While
