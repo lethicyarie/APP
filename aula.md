@@ -30,8 +30,25 @@ Constantes
 
 Strings (textos): "" '' `` 
 Number
-Function
+Boolean: true, false
 
 ## Operadores
 
 Operador de atribuição de valor (=)
+Operador de concatenação (+)
+
+### Arrays:
+
+Uma loista que contém qualquer tipo de dado
+
+## Obketos: 
+
+Atributos e métodos
+Criação e manipulação de objetos
+Acesso a propriedades de objetos
+
+### Functions
+
+Criar, passar argumento
+Executar
+Arrow function/named function
