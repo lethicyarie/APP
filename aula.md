@@ -36,6 +36,7 @@ Boolean: true, false
 
 Operador de atribuição de valor (=)
 Operador de concatenação (+)
+Operadores de comparação (== != < > <= =>)
 
 ### Arrays:
 
@@ -60,6 +61,7 @@ While
 # Condicionais
 
 Switch
+if/else
 
 ## Módulos em node.js
 
